@@ -2,7 +2,6 @@
   "type": "module",
   "name": "tuiter-node-server-app",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,5 +13,14 @@
     "axios": "^1.3.4",
     "cors": "^2.8.5",
     "express": "^4.18.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarriny/tuiter-node-server-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jarriny/tuiter-node-server-app/issues"
+  },
+  "homepage": "https://github.com/jarriny/tuiter-node-server-app#readme",
+  "description": ""
 }
